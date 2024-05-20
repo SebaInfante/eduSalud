@@ -1,0 +1,184 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "name": "Ibuprofeno",
+      "type": "Analgésico, antiinflamatorio no esteroideo (AINE)",
+      "description": "El ibuprofeno es un medicamento utilizado para aliviar el dolor y reducir la inflamación.",
+      "activeComponents": ["Ibuprofeno"],
+      "dosageInstructions": [
+        {
+          "id": 1,
+          "type": "Adultos",
+          "dosage": "200 mg",
+          "frecuency": "cada 4-6 horas",
+          "maximumDailyDose": "1200 mg"
+        },
+        {
+          "id": 2,
+          "type": "Niños",
+          "dosage": "Consultar al médico",
+          "frecuency": "Según el peso y la edad"
+        }
+      ],
+      "drugInteractions": [
+        {
+          "name": "Naproxeno",
+          "description": "Evitar el uso simultáneo con otros AINEs como el naproxeno"
+        }
+      ],
+      "precautions": [
+        "Tomar con alimentos o leche si causa malestar estomacal",
+        "No tomar si está embarazada en el tercer trimestre"
+      ],
+      "storage": "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
+      "indications": [1, 2],
+      "contraindications": [3],
+      "secondary_effects": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "name": "Paracetamol",
+      "type": "Analgésico, antipirético",
+      "description": "El paracetamol se utiliza para aliviar el dolor leve a moderado y reducir la fiebre.",
+      "activeComponents": ["Paracetamol"],
+      "dosageInstructions": [
+        {
+          "id": 3,
+          "type": "Adultos",
+          "dosage": "500-1000 mg",
+          "frecuency": "cada 4-6 horas",
+          "maximumDailyDose": "4000 mg"
+        },
+        {
+          "id": 4,
+          "type": "Niños",
+          "dosage": "Consultar al médico",
+          "frecuency": "Según el peso y la edad"
+        }
+      ],
+      "drugInteractions": [
+        {
+          "name": "Alcohol",
+          "description": "Evitar el consumo de alcohol durante el uso de paracetamol para prevenir daño hepático"
+        }
+      ],
+      "precautions": [
+        "No exceder la dosis recomendada",
+        "Consultar al médico si el dolor o la fiebre persisten"
+      ],
+      "storage": "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
+      "indications": [1, 2],
+      "contraindications": [1],
+      "secondary_effects": [4, 5, 6]
+    },
+    {
+      "id": 3,
+      "name": "Amoxicilina",
+      "type": "Antibiótico",
+      "description": "La amoxicilina se usa para tratar infecciones bacterianas.",
+      "activeComponents": ["Amoxicilina"],
+      "dosageInstructions": [
+        {
+          "id": 5,
+          "type": "Adultos",
+          "dosage": "500 mg",
+          "frecuency": "cada 8 horas",
+          "maximumDailyDose": "3000 mg"
+        },
+        {
+          "id": 6,
+          "type": "Niños",
+          "dosage": "Consultar al médico",
+          "frecuency": "Según el peso y la edad"
+        }
+      ],
+      "drugInteractions": [
+        {
+          "name": "Metotrexato",
+          "description": "La amoxicilina puede aumentar los niveles de metotrexato"
+        }
+      ],
+      "precautions": [
+        "Completar el ciclo completo de antibióticos",
+        "No usar en caso de alergia a la penicilina"
+      ],
+      "storage": "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
+      "indications": [6],
+      "contraindications": [5],
+      "secondary_effects": [7, 8, 9]
+    },
+    {
+      "id": 4,
+      "name": "Loratadina",
+      "type": "Antihistamínico",
+      "description": "La loratadina se utiliza para aliviar los síntomas de alergia.",
+      "activeComponents": ["Loratadina"],
+      "dosageInstructions": [
+        {
+          "id": 7,
+          "type": "Adultos",
+          "dosage": "10 mg",
+          "frecuency": "una vez al día",
+          "maximumDailyDose": "10 mg"
+        },
+        {
+          "id": 8,
+          "type": "Niños",
+          "dosage": "5 mg",
+          "frecuency": "una vez al día"
+        }
+      ],
+      "drugInteractions": [
+        {
+          "name": "Ketoconazol",
+          "description": "El ketoconazol puede aumentar los niveles de loratadina en el cuerpo"
+        }
+      ],
+      "precautions": [
+        "No exceder la dosis recomendada",
+        "Consultar al médico en caso de embarazo o lactancia"
+      ],
+      "storage": "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
+      "indications": [37],
+      "contraindications": [11],
+      "secondary_effects": [10, 11, 12]
+    },
+    {
+      "id": 5,
+      "name": "Metformina",
+      "type": "Antidiabético",
+      "description": "La metformina se utiliza para el tratamiento de la diabetes tipo 2.",
+      "activeComponents": ["Metformina"],
+      "dosageInstructions": [
+        {
+          "id": 9,
+          "type": "Adultos",
+          "dosage": "500 mg",
+          "frecuency": "dos veces al día",
+          "maximumDailyDose": "2000 mg"
+        },
+        {
+          "id": 10,
+          "type": "Niños",
+          "dosage": "Consultar al médico",
+          "frecuency": "Según el peso y la edad"
+        }
+      ],
+      "drugInteractions": [
+        {
+          "name": "Alcohol",
+          "description": "El consumo de alcohol puede aumentar el riesgo de acidosis láctica"
+        }
+      ],
+      "precautions": [
+        "Tomar durante las comidas para reducir el malestar estomacal",
+        "Consultar al médico antes de cualquier cirugía"
+      ],
+      "storage": "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
+      "indications": [15],
+      "contraindications": [16],
+      "secondary_effects": [13, 14, 15]
+    }
+  ]
+}

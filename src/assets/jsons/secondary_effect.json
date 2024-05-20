@@ -1,0 +1,355 @@
+{
+    "secondary_effect": [
+      {
+        "id": 1,
+        "descripcion": {
+          "es-ES": "Náuseas",
+          "en-EN": "Nausea"
+        }
+      },
+      {
+        "id": 2,
+        "descripcion": {
+          "es-ES": "Vómitos",
+          "en-EN": "Vomiting"
+        }
+      },
+      {
+        "id": 3,
+        "descripcion": {
+          "es-ES": "Dolor de cabeza",
+          "en-EN": "Headache"
+        }
+      },
+      {
+        "id": 4,
+        "descripcion": {
+          "es-ES": "Mareos",
+          "en-EN": "Dizziness"
+        }
+      },
+      {
+        "id": 5,
+        "descripcion": {
+          "es-ES": "Somnolencia",
+          "en-EN": "Drowsiness"
+        }
+      },
+      {
+        "id": 6,
+        "descripcion": {
+          "es-ES": "Estreñimiento",
+          "en-EN": "Constipation"
+        }
+      },
+      {
+        "id": 7,
+        "descripcion": {
+          "es-ES": "Diarrea",
+          "en-EN": "Diarrhea"
+        }
+      },
+      {
+        "id": 8,
+        "descripcion": {
+          "es-ES": "Dolor abdominal",
+          "en-EN": "Abdominal pain"
+        }
+      },
+      {
+        "id": 9,
+        "descripcion": {
+          "es-ES": "Síntomas gripales",
+          "en-EN": "Flu-like symptoms"
+        }
+      },
+      {
+        "id": 10,
+        "descripcion": {
+          "es-ES": "Sed",
+          "en-EN": "Thirst"
+        }
+      },
+      {
+        "id": 11,
+        "descripcion": {
+          "es-ES": "Aumento de peso",
+          "en-EN": "Weight gain"
+        }
+      },
+      {
+        "id": 12,
+        "descripcion": {
+          "es-ES": "Pérdida de peso",
+          "en-EN": "Weight loss"
+        }
+      },
+      {
+        "id": 13,
+        "descripcion": {
+          "es-ES": "Insomnio",
+          "en-EN": "Insomnia"
+        }
+      },
+      {
+        "id": 14,
+        "descripcion": {
+          "es-ES": "Ansiedad",
+          "en-EN": "Anxiety"
+        }
+      },
+      {
+        "id": 15,
+        "descripcion": {
+          "es-ES": "Depresión",
+          "en-EN": "Depression"
+        }
+      },
+      {
+        "id": 16,
+        "descripcion": {
+          "es-ES": "Irritabilidad",
+          "en-EN": "Irritability"
+        }
+      },
+      {
+        "id": 17,
+        "descripcion": {
+          "es-ES": "Erupción cutánea",
+          "en-EN": "Skin rash"
+        }
+      },
+      {
+        "id": 18,
+        "descripcion": {
+          "es-ES": "Síndrome de piernas inquietas",
+          "en-EN": "Restless legs syndrome"
+        }
+      },
+      {
+        "id": 19,
+        "descripcion": {
+          "es-ES": "Taquicardia",
+          "en-EN": "Tachycardia"
+        }
+      },
+      {
+        "id": 20,
+        "descripcion": {
+          "es-ES": "Palpitaciones",
+          "en-EN": "Palpitations"
+        }
+      },
+      {
+        "id": 21,
+        "descripcion": {
+          "es-ES": "Boca seca",
+          "en-EN": "Dry mouth"
+        }
+      },
+      {
+        "id": 22,
+        "descripcion": {
+          "es-ES": "Visión borrosa",
+          "en-EN": "Blurred vision"
+        }
+      },
+      {
+        "id": 23,
+        "descripcion": {
+          "es-ES": "Problemas de audición",
+          "en-EN": "Hearing problems"
+        }
+      },
+      {
+        "id": 24,
+        "descripcion": {
+          "es-ES": "Malestar estomacal",
+          "en-EN": "Upset stomach"
+        }
+      },
+      {
+        "id": 25,
+        "descripcion": {
+          "es-ES": "Sangrado gastrointestinal",
+          "en-EN": "Gastrointestinal bleeding"
+        }
+      },
+      {
+        "id": 26,
+        "descripcion": {
+          "es-ES": "Confusión",
+          "en-EN": "Confusion"
+        }
+      },
+      {
+        "id": 27,
+        "descripcion": {
+          "es-ES": "Problemas de memoria",
+          "en-EN": "Memory problems"
+        }
+      },
+      {
+        "id": 28,
+        "descripcion": {
+          "es-ES": "Problemas de concentración",
+          "en-EN": "Concentration problems"
+        }
+      },
+      {
+        "id": 29,
+        "descripcion": {
+          "es-ES": "Síndrome de abstinencia",
+          "en-EN": "Withdrawal syndrome"
+        }
+      },
+      {
+        "id": 30,
+        "descripcion": {
+          "es-ES": "Pérdida de apetito",
+          "en-EN": "Loss of appetite"
+        }
+      },
+      {
+        "id": 31,
+        "descripcion": {
+          "es-ES": "Aumento del apetito",
+          "en-EN": "Increased appetite"
+        }
+      },
+      {
+        "id": 32,
+        "descripcion": {
+          "es-ES": "Dificultad para respirar",
+          "en-EN": "Shortness of breath"
+        }
+      },
+      {
+        "id": 33,
+        "descripcion": {
+          "es-ES": "Temblores",
+          "en-EN": "Tremors"
+        }
+      },
+      {
+        "id": 34,
+        "descripcion": {
+          "es-ES": "Aumento de la sensibilidad al sol",
+          "en-EN": "Increased sensitivity to sunlight"
+        }
+      },
+      {
+        "id": 35,
+        "descripcion": {
+          "es-ES": "Hinchazón",
+          "en-EN": "Swelling"
+        }
+      },
+      {
+        "id": 36,
+        "descripcion": {
+          "es-ES": "Hipoglucemia",
+          "en-EN": "Hypoglycemia"
+        }
+      },
+      {
+        "id": 37,
+        "descripcion": {
+          "es-ES": "Hiperglucemia",
+          "en-EN": "Hyperglycemia"
+        }
+      },
+      {
+        "id": 38,
+        "descripcion": {
+          "es-ES": "Síndrome serotoninérgico",
+          "en-EN": "Serotonin syndrome"
+        }
+      },
+      {
+        "id": 39,
+        "descripcion": {
+          "es-ES": "Alteraciones del gusto",
+          "en-EN": "Taste disturbances"
+        }
+      },
+      {
+        "id": 40,
+        "descripcion": {
+          "es-ES": "Acidez estomacal",
+          "en-EN": "Heartburn"
+        }
+      },
+      {
+        "id": 41,
+        "descripcion": {
+          "es-ES": "Flatulencia",
+          "en-EN": "Flatulence"
+        }
+      },
+      {
+        "id": 42,
+        "descripcion": {
+          "es-ES": "Aumento del sudor",
+          "en-EN": "Increased sweating"
+        }
+      },
+      {
+        "id": 43,
+        "descripcion": {
+          "es-ES": "Disfunción sexual",
+          "en-EN": "Sexual dysfunction"
+        }
+      },
+      {
+        "id": 44,
+        "descripcion": {
+          "es-ES": "Hipotensión ortostática",
+          "en-EN": "Orthostatic hypotension"
+        }
+      },
+      {
+        "id": 45,
+        "descripcion": {
+          "es-ES": "Hipertensión arterial",
+          "en-EN": "Hypertension"
+        }
+      },
+      {
+        "id": 46,
+        "descripcion": {
+          "es-ES": "Desmayos",
+          "en-EN": "Fainting"
+        }
+      },
+      {
+        "id": 47,
+        "descripcion": {
+          "es-ES": "Síndrome de Stevens-Johnson",
+          "en-EN": "Stevens-Johnson syndrome"
+        }
+      },
+      {
+        "id": 48,
+        "descripcion": {
+          "es-ES": "Síndrome de la mano-pie",
+          "en-EN": "Hand-foot syndrome"
+        }
+      },
+      {
+        "id": 49,
+        "descripcion": {
+          "es-ES": "Dermatitis",
+          "en-EN": "Dermatitis"
+        }
+      },
+      {
+        "id": 50,
+        "descripcion": {
+          "es-ES": "Neuropatía periférica",
+          "en-EN": "Peripheral neuropathy"
+        }
+      }
+    ]
+  }
+  

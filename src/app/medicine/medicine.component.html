@@ -1,1 +1,30 @@
 <p>medicine works!</p>
+
+
+
+<div class="card flex justify-content-center">
+    <p-listbox 
+        [options]="medicineList" 
+        [(ngModel)]="medicineSelected" 
+        optionLabel="name" 
+        [style]="{'width':'15rem'}" 
+        [listStyle]="{'max-height': '220px'}" />
+</div>
+
+
+
+<div class="card flex justify-content-center">
+    <p-button label="Lista de medicamentos" (onClick)="showAllMedicine = !showAllMedicine" />
+</div>
+
+@if (medicineSelected) {
+    <pre>
+        {{ medicineSelected | json}}
+    </pre>
+}
+
+@if (showAllMedicine) {
+    <pre>
+        {{ medicineList | json}}
+    </pre>
+}

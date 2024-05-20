@@ -1,0 +1,354 @@
+{
+    "indications": [
+        {
+            "id": 1,
+            "descripcion": {
+                "es-ES": "Dolor leve a moderado",
+                "en-EN": "Mild to moderate pain"
+            }
+        },
+        {
+            "id": 2,
+            "descripcion": {
+                "es-ES": "Fiebre",
+                "en-EN": "Fever"
+            }
+        },
+        {
+            "id": 3,
+            "descripcion": {
+                "es-ES": "Inflamación",
+                "en-EN": "Inflammation"
+            }
+        },
+        {
+            "id": 4,
+            "descripcion": {
+                "es-ES": "Hipertensión arterial",
+                "en-EN": "High blood pressure"
+            }
+        },
+        {
+            "id": 5,
+            "descripcion": {
+                "es-ES": "Dolor neuropático",
+                "en-EN": "Neuropathic pain"
+            }
+        },
+        {
+            "id": 6,
+            "descripcion": {
+                "es-ES": "Infección bacteriana",
+                "en-EN": "Bacterial infection"
+            }
+        },
+        {
+            "id": 7,
+            "descripcion": {
+                "es-ES": "Asma",
+                "en-EN": "Asthma"
+            }
+        },
+        {
+            "id": 8,
+            "descripcion": {
+                "es-ES": "Insomnio",
+                "en-EN": "Insomnia"
+            }
+        },
+        {
+            "id": 9,
+            "descripcion": {
+                "es-ES": "Ansiedad",
+                "en-EN": "Anxiety"
+            }
+        },
+        {
+            "id": 10,
+            "descripcion": {
+                "es-ES": "Depresión",
+                "en-EN": "Depression"
+            }
+        },
+        {
+            "id": 11,
+            "descripcion": {
+                "es-ES": "Artritis reumatoide",
+                "en-EN": "Rheumatoid arthritis"
+            }
+        },
+        {
+            "id": 12,
+            "descripcion": {
+                "es-ES": "Osteoartritis",
+                "en-EN": "Osteoarthritis"
+            }
+        },
+        {
+            "id": 13,
+            "descripcion": {
+                "es-ES": "Infección viral",
+                "en-EN": "Viral infection"
+            }
+        },
+        {
+            "id": 14,
+            "descripcion": {
+                "es-ES": "Hipercolesterolemia",
+                "en-EN": "Hypercholesterolemia"
+            }
+        },
+        {
+            "id": 15,
+            "descripcion": {
+                "es-ES": "Diabetes tipo 2",
+                "en-EN": "Type 2 diabetes"
+            }
+        },
+        {
+            "id": 16,
+            "descripcion": {
+                "es-ES": "Hipotiroidismo",
+                "en-EN": "Hypothyroidism"
+            }
+        },
+        {
+            "id": 17,
+            "descripcion": {
+                "es-ES": "Epilepsia",
+                "en-EN": "Epilepsy"
+            }
+        },
+        {
+            "id": 18,
+            "descripcion": {
+                "es-ES": "Trastorno de déficit de atención e hiperactividad (TDAH)",
+                "en-EN": "Attention deficit hyperactivity disorder (ADHD)"
+            }
+        },
+        {
+            "id": 19,
+            "descripcion": {
+                "es-ES": "Trastorno bipolar",
+                "en-EN": "Bipolar disorder"
+            }
+        },
+        {
+            "id": 20,
+            "descripcion": {
+                "es-ES": "Enfermedad de Alzheimer",
+                "en-EN": "Alzheimer's disease"
+            }
+        },
+        {
+            "id": 21,
+            "descripcion": {
+                "es-ES": "Trastorno de ansiedad generalizada",
+                "en-EN": "Generalized anxiety disorder"
+            }
+        },
+        {
+            "id": 22,
+            "descripcion": {
+                "es-ES": "Esquizofrenia",
+                "en-EN": "Schizophrenia"
+            }
+        },
+        {
+            "id": 23,
+            "descripcion": {
+                "es-ES": "Trastorno obsesivo-compulsivo (TOC)",
+                "en-EN": "Obsessive-compulsive disorder (OCD)"
+            }
+        },
+        {
+            "id": 24,
+            "descripcion": {
+                "es-ES": "Fibromialgia",
+                "en-EN": "Fibromyalgia"
+            }
+        },
+        {
+            "id": 25,
+            "descripcion": {
+                "es-ES": "Enfermedad pulmonar obstructiva crónica (EPOC)",
+                "en-EN": "Chronic obstructive pulmonary disease (COPD)"
+            }
+        },
+        {
+            "id": 26,
+            "descripcion": {
+                "es-ES": "Insuficiencia cardiaca",
+                "en-EN": "Heart failure"
+            }
+        },
+        {
+            "id": 27,
+            "descripcion": {
+                "es-ES": "Hipertensión pulmonar",
+                "en-EN": "Pulmonary hypertension"
+            }
+        },
+        {
+            "id": 28,
+            "descripcion": {
+                "es-ES": "Acné",
+                "en-EN": "Acne"
+            }
+        },
+        {
+            "id": 29,
+            "descripcion": {
+                "es-ES": "Psoriasis",
+                "en-EN": "Psoriasis"
+            }
+        },
+        {
+            "id": 30,
+            "descripcion": {
+                "es-ES": "Eczema",
+                "en-EN": "Eczema"
+            }
+        },
+        {
+            "id": 31,
+            "descripcion": {
+                "es-ES": "Enfermedad de Crohn",
+                "en-EN": "Crohn's disease"
+            }
+        },
+        {
+            "id": 32,
+            "descripcion": {
+                "es-ES": "Colitis ulcerosa",
+                "en-EN": "Ulcerative colitis"
+            }
+        },
+        {
+            "id": 33,
+            "descripcion": {
+                "es-ES": "Hipotiroidismo",
+                "en-EN": "Hypothyroidism"
+            }
+        },
+        {
+            "id": 34,
+            "descripcion": {
+                "es-ES": "Hipertiroidismo",
+                "en-EN": "Hyperthyroidism"
+            }
+        },
+        {
+            "id": 35,
+            "descripcion": {
+                "es-ES": "Enfermedad de Parkinson",
+                "en-EN": "Parkinson's disease"
+            }
+        },
+        {
+            "id": 36,
+            "descripcion": {
+                "es-ES": "Esclerosis múltiple",
+                "en-EN": "Multiple sclerosis"
+            }
+        },
+        {
+            "id": 37,
+            "descripcion": {
+                "es-ES": "Fiebre del heno (rinitis alérgica)",
+                "en-EN": "Hay fever (allergic rhinitis)"
+            }
+        },
+        {
+            "id": 38,
+            "descripcion": {
+                "es-ES": "Migraña",
+                "en-EN": "Migraine"
+            }
+        },
+        {
+            "id": 39,
+            "descripcion": {
+                "es-ES": "Disfunción eréctil",
+                "en-EN": "Erectile dysfunction"
+            }
+        },
+        {
+            "id": 40,
+            "descripcion": {
+                "es-ES": "Trastorno de la conducta alimentaria",
+                "en-EN": "Eating disorder"
+            }
+        },
+        {
+            "id": 41,
+            "descripcion": {
+                "es-ES": "Trastorno del sueño",
+                "en-EN": "Sleep disorder"
+            }
+        },
+        {
+            "id": 42,
+            "descripcion": {
+                "es-ES": "Trastorno de estrés postraumático (TEPT)",
+                "en-EN": "Post-traumatic stress disorder (PTSD)"
+            }
+        },
+        {
+            "id": 43,
+            "descripcion": {
+                "es-ES": "Enfermedad renal crónica",
+                "en-EN": "Chronic kidney disease"
+            }
+        },
+        {
+            "id": 44,
+            "descripcion": {
+                "es-ES": "Anemia",
+                "en-EN": "Anemia"
+            }
+        },
+        {
+            "id": 45,
+            "descripcion": {
+                "es-ES": "Enfermedad hepática",
+                "en-EN": "Liver disease"
+            }
+        },
+        {
+            "id": 46,
+            "descripcion": {
+                "es-ES": "Trastorno de la tiroides",
+                "en-EN": "Thyroid disorder"
+            }
+        },
+        {
+            "id": 47,
+            "descripcion": {
+                "es-ES": "Trastorno del espectro autista (TEA)",
+                "en-EN": "Autism spectrum disorder (ASD)"
+            }
+        },
+        {
+            "id": 48,
+            "descripcion": {
+                "es-ES": "Hipertensión arterial pulmonar",
+                "en-EN": "Pulmonary arterial hypertension"
+            }
+        },
+        {
+            "id": 49,
+            "descripcion": {
+                "es-ES": "Trastorno de pánico",
+                "en-EN": "Panic disorder"
+            }
+        },
+        {
+            "id": 50,
+            "descripcion": {
+                "es-ES": "Cáncer",
+                "en-EN": "Cancer"
+            }
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "contraindications": [
+        {
+            "id": 1,
+            "descripcion": {
+                "es-ES": "Alergia al medicamento",
+                "en-EN": "Allergy to the medication"
+            }
+        },
+        {
+            "id": 2,
+            "descripcion": {
+                "es-ES": "Embarazo",
+                "en-EN": "Pregnancy"
+            }
+        },
+        {
+            "id": 3,
+            "descripcion": {
+                "es-ES": "Lactancia",
+                "en-EN": "Breastfeeding"
+            }
+        },
+        {
+            "id": 4,
+            "descripcion": {
+                "es-ES": "Insuficiencia hepática",
+                "en-EN": "Liver failure"
+            }
+        },
+        {
+            "id": 5,
+            "descripcion": {
+                "es-ES": "Insuficiencia renal",
+                "en-EN": "Kidney failure"
+            }
+        },
+        {
+            "id": 6,
+            "descripcion": {
+                "es-ES": "Uso concomitante con ciertos medicamentos",
+                "en-EN": "Concomitant use with certain medications"
+            }
+        },
+        {
+            "id": 7,
+            "descripcion": {
+                "es-ES": "Glaucoma",
+                "en-EN": "Glaucoma"
+            }
+        },
+        {
+            "id": 8,
+            "descripcion": {
+                "es-ES": "Hipotensión",
+                "en-EN": "Hypotension"
+            }
+        },
+        {
+            "id": 9,
+            "descripcion": {
+                "es-ES": "Trastornos del ritmo cardíaco",
+                "en-EN": "Cardiac arrhythmias"
+            }
+        },
+        {
+            "id": 10,
+            "descripcion": {
+                "es-ES": "Úlcera gástrica",
+                "en-EN": "Gastric ulcer"
+            }
+        },
+        {
+            "id": 11,
+            "descripcion": {
+                "es-ES": "Enfermedad pulmonar obstructiva crónica (EPOC) grave",
+                "en-EN": "Severe chronic obstructive pulmonary disease (COPD)"
+            }
+        },
+        {
+            "id": 12,
+            "descripcion": {
+                "es-ES": "Apnea del sueño",
+                "en-EN": "Sleep apnea"
+            }
+        },
+        {
+            "id": 13,
+            "descripcion": {
+                "es-ES": "Miastenia gravis",
+                "en-EN": "Myasthenia gravis"
+            }
+        },
+        {
+            "id": 14,
+            "descripcion": {
+                "es-ES": "Dependencia a sustancias",
+                "en-EN": "Substance dependence"
+            }
+        },
+        {
+            "id": 15,
+            "descripcion": {
+                "es-ES": "Trastornos convulsivos",
+                "en-EN": "Seizure disorders"
+            }
+        },
+        {
+            "id": 16,
+            "descripcion": {
+                "es-ES": "Trastornos de la coagulación",
+                "en-EN": "Coagulation disorders"
+            }
+        },
+        {
+            "id": 17,
+            "descripcion": {
+                "es-ES": "Desórdenes psiquiátricos graves",
+                "en-EN": "Severe psychiatric disorders"
+            }
+        },
+        {
+            "id": 18,
+            "descripcion": {
+                "es-ES": "Neuropatía periférica",
+                "en-EN": "Peripheral neuropathy"
+            }
+        },
+        {
+            "id": 19,
+            "descripcion": {
+                "es-ES": "Hipotiroidismo no tratado",
+                "en-EN": "Untreated hypothyroidism"
+            }
+        },
+        {
+            "id": 20,
+            "descripcion": {
+                "es-ES": "Cáncer de mama",
+                "en-EN": "Breast cancer"
+            }
+        },
+        {
+            "id": 21,
+            "descripcion": {
+                "es-ES": "Enfermedad hepática crónica",
+                "en-EN": "Chronic liver disease"
+            }
+        },
+        {
+            "id": 22,
+            "descripcion": {
+                "es-ES": "Enfermedad renal crónica en etapa terminal",
+                "en-EN": "End-stage chronic kidney disease"
+            }
+        },
+        {
+            "id": 23,
+            "descripcion": {
+                "es-ES": "Hipertiroidismo no tratado",
+                "en-EN": "Untreated hyperthyroidism"
+            }
+        },
+        {
+            "id": 24,
+            "descripcion": {
+                "es-ES": "Glaucoma de ángulo estrecho",
+                "en-EN": "Narrow-angle glaucoma"
+            }
+        },
+        {
+            "id": 25,
+            "descripcion": {
+                "es-ES": "Asma grave",
+                "en-EN": "Severe asthma"
+            }
+        },
+        {
+            "id": 26,
+            "descripcion": {
+                "es-ES": "Trastornos hemorrágicos",
+                "en-EN": "Bleeding disorders"
+            }
+        },
+        {
+            "id": 27,
+            "descripcion": {
+                "es-ES": "Úlcera duodenal",
+                "en-EN": "Duodenal ulcer"
+            }
+        },
+        {
+            "id": 28,
+            "descripcion": {
+                "es-ES": "Insuficiencia cardiaca descompensada",
+                "en-EN": "Decompensated heart failure"
+            }
+        },
+        {
+            "id": 29,
+            "descripcion": {
+                "es-ES": "Trastornos de la conducta alimentaria graves",
+                "en-EN": "Severe eating disorders"
+            }
+        },
+        {
+            "id": 30,
+            "descripcion": {
+                "es-ES": "Cirrosis hepática",
+                "en-EN": "Liver cirrhosis"
+            }
+        },
+        {
+            "id": 31,
+            "descripcion": {
+                "es-ES": "Enfermedad de Parkinson avanzada",
+                "en-EN": "Advanced Parkinson's disease"
+            }
+        },
+        {
+            "id": 32,
+            "descripcion": {
+                "es-ES": "Hemorragia gastrointestinal activa",
+                "en-EN": "Active gastrointestinal bleeding"
+            }
+        },
+        {
+            "id": 33,
+            "descripcion": {
+                "es-ES": "Glaucoma de ángulo abierto",
+                "en-EN": "Open-angle glaucoma"
+            }
+        },
+        {
+            "id": 34,
+            "descripcion": {
+                "es-ES": "Anafilaxia previa al medicamento",
+                "en-EN": "Previous anaphylaxis to the medication"
+            }
+        },
+        {
+            "id": 35,
+            "descripcion": {
+                "es-ES": "Cáncer de próstata",
+                "en-EN": "Prostate cancer"
+            }
+        },
+        {
+            "id": 36,
+            "descripcion": {
+                "es-ES": "Lupus eritematoso sistémico",
+                "en-EN": "Systemic lupus erythematosus"
+            }
+        },
+        {
+            "id": 37,
+            "descripcion": {
+                "es-ES": "Trastorno del sueño no diagnosticado",
+                "en-EN": "Undiagnosed sleep disorder"
+            }
+        },
+        {
+            "id": 38,
+            "descripcion": {
+                "es-ES": "Glaucoma congénito",
+                "en-EN": "Congenital glaucoma"
+            }
+        },
+        {
+            "id": 39,
+            "descripcion": {
+                "es-ES": "Cáncer de pulmón",
+                "en-EN": "Lung cancer"
+            }
+        },
+        {
+            "id": 40,
+            "descripcion": {
+                "es-ES": "Enfermedad de Crohn activa",
+                "en-EN": "Active Crohn's disease"
+            }
+        },
+        {
+            "id": 41,
+            "descripcion": {
+                "es-ES": "Pancreatitis aguda",
+                "en-EN": "Acute pancreatitis"
+            }
+        },
+        {
+            "id": 42,
+            "descripcion": {
+                "es-ES": "Depresión grave con riesgo suicida",
+                "en-EN": "Severe depression with suicidal risk"
+            }
+        },
+        {
+            "id": 43,
+            "descripcion": {
+                "es-ES": "Anemia hemolítica",
+                "en-EN": "Hemolytic anemia"
+            }
+        },
+        {
+            "id": 44,
+            "descripcion": {
+                "es-ES": "Leucemia",
+                "en-EN": "Leukemia"
+            }
+        },
+        {
+            "id": 45,
+            "descripcion": {
+                "es-ES": "Esclerosis lateral amiotrófica (ELA)",
+                "en-EN": "Amyotrophic lateral sclerosis (ALS)"
+            }
+        },
+        {
+            "id": 46,
+            "descripcion": {
+                "es-ES": "Enfermedad de Huntington",
+                "en-EN": "Huntington's disease"
+            }
+        },
+        {
+            "id": 47,
+            "descripcion": {
+                "es-ES": "Psoriasis grave",
+                "en-EN": "Severe psoriasis"
+            }
+        },
+        {
+            "id": 48,
+            "descripcion": {
+                "es-ES": "Trastorno de ansiedad social grave",
+                "en-EN": "Severe social anxiety disorder"
+            }
+        },
+        {
+            "id": 49,
+            "descripcion": {
+                "es-ES": "Enfermedad de Lyme crónica",
+                "en-EN": "Chronic Lyme disease"
+            }
+        },
+        {
+            "id": 50,
+            "descripcion": {
+                "es-ES": "Hipotensión ortostática",
+                "en-EN": "Orthostatic hypotension"
+            }
+        }
+    ]
+}
